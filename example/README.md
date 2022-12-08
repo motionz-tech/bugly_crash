@@ -1,6 +1,6 @@
-# flutter_bugly_example
+# bugly_crash_example
 
-Demonstrates how to use the flutter_bugly plugin.
+Demonstrates how to use the bugly_crash plugin.
 
 ## Getting Started
 
